@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: COSC 3337
-summary: Learn data science
+linktitle: COSC 2430
+summary: Data Structure
 weight: 1
 
 # Page metadata.
