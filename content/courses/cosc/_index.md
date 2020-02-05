@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: COSC 2730
+linktitle: COSC 2430
 summary: Data Structure
 weight: 1
 
