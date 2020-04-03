@@ -19,8 +19,5 @@ menu:
   cosc:
     name: Overview
     weight: 1
-    name: Assigment
-    weight: 2
-
 ---
 
