@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Instructional Associate Professor and Director of Undergraduate Studies
+role: Instructional Associate Professor and Director of Undergraduate 
 
 # Organizations/Affiliations
 organizations:
