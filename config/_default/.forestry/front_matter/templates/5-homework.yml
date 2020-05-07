@@ -5,18 +5,29 @@ fields:
 - type: text
   name: title
   label: title
+  default: Homework
+  hidden: true
 - type: text
   name: linktitle
   label: linktitle
+  hidden: true
+  default: Homework
 - type: boolean
   name: toc
   label: toc
+  hidden: true
 - type: text
   name: type
   label: type
+  default: docs
+  hidden: true
 - type: datetime
   name: date
   label: date
+  default: now
+  hidden: true
 - type: number
   name: weight
   label: weight
+  default: 5
+  hidden: true
