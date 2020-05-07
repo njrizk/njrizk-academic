@@ -11,6 +11,7 @@ fields:
 - type: number
   name: weight
   label: weight
+  default: 1
 - type: text
   name: title
   label: title
@@ -26,3 +27,5 @@ fields:
 - type: text
   name: type
   label: type
+  hidden: true
+  default: docs
