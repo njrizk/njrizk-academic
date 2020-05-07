@@ -7,11 +7,17 @@ sections:
 - type: heading
   label: Home Page
 - type: document
+  path: content/home/skills.md
+  label: Skills
+  match: "**/*"
+- type: document
   path: content/home/about.md
   label: About
 - type: document
   path: content/authors/admin/_index.md
   label: Personal Info
+- type: heading
+  label: Courses Section
 - type: directory
   path: content/courses
   label: Courses
