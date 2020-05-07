@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC 2430 - Data Structures and Algorithms
-summary: Learn how to Data Structures and algorithms
+linktitle: COSC 3337 - Data Science
+summary: Learn how to data science
 weight: 1
 
 # Page metadata.
@@ -13,7 +13,7 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
-  cosc:
+  datascience:
     name: Overview
     weight: 1
 ---
