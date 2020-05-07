@@ -9,7 +9,6 @@ sections:
 - type: document
   path: content/home/skills.md
   label: Skills
-  match: "**/*"
 - type: document
   path: content/home/about.md
   label: About
