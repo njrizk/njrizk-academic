@@ -9,20 +9,17 @@ sections:
 - type: document
   path: content/home/about.md
   label: About
-  match: "**/*"
 - type: document
   path: content/authors/admin/_index.md
   label: Personal Info
-  match: "**/*"
-  read_only: false
 - type: directory
   path: content/courses
   label: Courses
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
-upload_dir: config/_default/static/uploads
-public_path: "/uploads"
+  new_doc_ext: md
+upload_dir: static/img
+public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
