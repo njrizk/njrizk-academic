@@ -11,12 +11,18 @@ fields:
 - type: boolean
   name: toc
   label: toc
+  default: false
+  hidden: true
 - type: text
   name: type
   label: type
+  default: docs
+  hidden: true
 - type: datetime
   name: date
   label: date
 - type: number
   name: weight
   label: weight
+  default: 1
+  hidden: true
