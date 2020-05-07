@@ -4,11 +4,23 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Home Page
+- type: document
+  path: content/home/about.md
+  label: About
+  match: "**/*"
+- type: document
+  path: content/authors/admin/_index.md
+  label: Personal Info
+  match: "**/*"
+  read_only: false
 - type: directory
-  path: config/_default/content
-  label: Pages
+  path: content/courses
+  label: Courses
   create: all
-  match: "*"
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: config/_default/static/uploads
 public_path: "/uploads"
 front_matter_path: ''
