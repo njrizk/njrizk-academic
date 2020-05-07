@@ -3,6 +3,9 @@ label: 0. Course Main
 hide_body: false
 fields:
 - type: text
+  name: title
+  label: title
+- type: text
   name: linktitle
   label: linktitle
 - type: text
@@ -12,18 +15,23 @@ fields:
   name: weight
   label: weight
   default: 1
-- type: text
-  name: title
-  label: title
+  hidden: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: false
+  default: now
+  hidden: true
 - type: datetime
   name: lastmod
   label: lastmod
+  hidden: true
+  default: ''
 - type: boolean
   name: toc
   label: toc
+  hidden: true
 - type: text
   name: type
   label: type
