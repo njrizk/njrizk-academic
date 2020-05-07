@@ -29,5 +29,5 @@ fields:
 - type: number
   name: weight
   label: weight
-  default: 3
+  default: 2
   hidden: true
