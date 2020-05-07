@@ -1,0 +1,28 @@
+---
+label: 0. Course Main
+hide_body: false
+fields:
+- type: text
+  name: linktitle
+  label: linktitle
+- type: text
+  name: summary
+  label: summary
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: lastmod
+  label: lastmod
+- type: boolean
+  name: toc
+  label: toc
+- type: text
+  name: type
+  label: type
