@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Instructional Associate Professor and Director of Undergraduate sssss
+role: Instructional Professor and Director of Undergraduates
 
 # Organizations/Affiliations
 organizations:
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science 
+    institution: Leicester University, United Kingdom
+    year: 2007
+  - course: DESS in Computer Science
+    institution: Nancy University, France
+    year: 1984
+  - course: BSc in Computer 
+    institution: School of Technology, Lebanon
+    year: 1983
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
