@@ -33,7 +33,7 @@ education:
   - course: DESS in Computer Science
     institution: Nancy University, France
     year: 1984
-  - course: BSc in Computer 
+  - course: Master in Computer Science
     institution: School of Technology, Lebanon
     year: 1983
 
