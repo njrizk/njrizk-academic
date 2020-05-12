@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Candidate for a position in the NSM Standing Committee elections"
 subtitle = ""
 
 [content]
@@ -65,3 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: "static/img/nsm.jpg"
