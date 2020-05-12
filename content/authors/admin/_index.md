@@ -60,7 +60,7 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
-  icon: r-project
+- icon: r-project
   icon_pack: ai
   link: files/nsm.pdf
 
