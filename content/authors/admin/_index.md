@@ -86,5 +86,4 @@ Excellence Award (2017). I was also nominated for the NSM Butler Teaching Award.
 [IEEE Counselor](http:ieee.org)
 
 [ACM -W Faculty Sponsor](http://Acm.org)
- -icon: cv
-  icon_pack: ai
+ 
