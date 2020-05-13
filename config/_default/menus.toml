@@ -9,18 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Statement"
+  url = "files/statement.pdf"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "NSM Statement"
+  url = "files/nsm.pdf"
   weight = 40
 
 [[main]]
@@ -33,15 +28,7 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "Statement"
-  url = "files/statement.pdf"
-  weight = 70
 
-[[main]]
-  name = "NSM Statement"
-  url = "files/nsm.pdf"
-  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
