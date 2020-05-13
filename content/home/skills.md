@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "chart-bar"
+  icon_pack = "fas"
   name = "Data Analytics"
   description = "90%"
   
 [[feature]]
-  icon = "project-diagram"
+  icon = "brain"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "100%"  
   
 [[feature]]
-  icon = "chart-pie"
+  icon = "infinity"
   icon_pack = "fas"
   name = "Algorithm Design"
   description = "101%"
