@@ -82,3 +82,5 @@ my teaching philosophy is gamifying the classroom which strongly increases stude
 engagement and motivation. My teaching activities were rewarded by receiving the
 departmental Teaching Excellence Award (2012) and University of Houston Teaching
 Excellence Award (2017). I was also nominated for the NSM Butler Teaching Award.
+
+[Director of Educational Data mining group within DAIS](http://dais.cs.uh.edu/people.html)
