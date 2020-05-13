@@ -59,12 +59,10 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
-- icon: r-project
-  icon_pack: ai
-  link: files/nsm.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "njrizk@uh.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -84,3 +82,6 @@ departmental Teaching Excellence Award (2012) and University of Houston Teaching
 Excellence Award (2017). I was also nominated for the NSM Butler Teaching Award.
 
 [Director of Educational Data mining group within DAIS](http://dais.cs.uh.edu/people.html)
+
+ -icon: cv
+  icon_pack: ai
