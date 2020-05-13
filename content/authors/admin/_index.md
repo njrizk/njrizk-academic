@@ -83,5 +83,8 @@ Excellence Award (2017). I was also nominated for the NSM Butler Teaching Award.
 
 [Director of Educational Data mining group within DAIS](http://dais.cs.uh.edu/people.html)
 
+[IEEE Counselor](http:ieee.org)
+
+[ACM -W Faculty Sponsor](http://Acm.org)
  -icon: cv
   icon_pack: ai
