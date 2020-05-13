@@ -97,7 +97,7 @@ address = {street = "3551 Cullen Blvd", city = "Houston", region = "TX", postcod
 coordinates = {latitude = "29.720023", longitude = "-95.342437"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Building Pgh 5th floor office 529"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
