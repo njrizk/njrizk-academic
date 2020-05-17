@@ -13,9 +13,8 @@ menu:
 weight: 1
 ---
 
-*   **Lab Hour:**PGH 376
+*   **Lab Hour:**MS Teams 
 *   **Lab Session:**
-    *   1\. Th 10:00AM -11:30 AM
-    *   2\. Th 11:30 AM -1:00 PM
-    *   3\. Th 1:00 PM -2:30 PM
-    *   4\. Th 2:30 PM -4:00 PM
+    *   1\. Monday  12:00 PM -2:00 PM
+    *   2\. Wednesday 12:00 PM -2:00 PM
+    
