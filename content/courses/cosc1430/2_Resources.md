@@ -15,9 +15,16 @@ weight: "1"
 *   You can also take a look at the command-line argument and script file [parser](FAQ/parsers.zip) if you don't know how to do it.
 
 
-*   **How we grade your homework**
+*   **Frequently used linux commands**
 
-*   1\. We first copy your homework and the grading test cases to a folder name like "hw1-archive", then we grade your homework in the archive folder. The grading test cases are unknown for you.
-*   2\. We use `g++ -std=c++11 *.cpp -o programe_name` to compile your homework, where the programe_name is specified in the homework
-*   3\. We use `diff -iEBwu 1.stdout 1.ans` to determine whether you pass the test case 1 or not, where 1.stdout is your output, 1.ans is the standard output. The command will ignore the spaces and blank lines. Generally, you will get 10 points for each test case, 90 in total
-*   4\. If your code can compile, then you get 10 points, otherwise you will get 0 for the homework.
+*   **ssh username@program.cs.uh.edu** to login. The initial password contains 9 digits, PSID + Captital Initial Last name + Capital Initial First name. It's recommended to use **passwd** to modify the initial passwd. You must remember the password. If you forget the password, you have to go to PGH527 to ask the adminisrtator to reset it. Again, please remember your password.
+*   **scp -r file_or_folder username@program.cs.uh.edu:~/hw1/** to upload a file or a folder to hw1 folder on the server
+*   **cp 1.txt 2.txt** to copy a file 1.txt to 2.txt
+*   **mv 1.txt folder** to move a filename 1.txt to folder
+*   **cat 1.txt** to display the content of 1.txt
+*   **ls** to list all files and folders in the current directory
+*   **cd hw1** to change directory to folder hw1
+*   **cd ..** to change directory to the parent folder
+*   **cd ~** to change directory to the home directory
+*   **nano main.cpp** to edit the file main.cpp
+*   **chmod +rx grade.sh** to make grade.sh readable and executable
