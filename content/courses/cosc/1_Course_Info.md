@@ -13,7 +13,7 @@ menu:
 weight: 1
 ---
 
-*   **Lab Hour:**PGH 376
+*   **Lab Hour:**PGH 
 *   **Lab Session:**
     *   1\. Th 10:00AM -11:30 AM
     *   2\. Th 11:30 AM -1:00 PM
