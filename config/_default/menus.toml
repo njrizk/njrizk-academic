@@ -9,6 +9,10 @@
   weight = 10
 
 [[main]]
+  name = "Service"
+  url = "files/nsm.pdf"
+  weight = 20
+[[main]]
   name = "Statement"
   url = "files/statement.pdf"
   weight = 30
