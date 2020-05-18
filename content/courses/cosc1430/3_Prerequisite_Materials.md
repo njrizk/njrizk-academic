@@ -1,6 +1,6 @@
 ---
-title: Extras
-linktitle: Extras
+title: Prerequisite Materials
+linktitle: Prerequisite Materials
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -13,14 +13,6 @@ menu:
 weight: 1
 ---
 
-
-*   **What is an Extra Program?**
-*   Extra problem is any program you compile and run from the textbook and/or from the lecture, or you  did while studying online or while practicing.
-*   Usually no detailed instructions for extras programs. The student can design the program and test cases freely and add additional functionality to the main program.
-*   Each extra should be under the root with a folder name extra_m_w_n. The order is important (m means the month when the extra is given, should between 8-11 for fall semester; 1-5 for spring semester. w means the week of the extra was given, should between 1-5. n means the number of the extra, if only one extra was given in that week, use 1, if two were given, use 1, 2, like extra_2_1_1 and extra_2_1_2, n should between 1-5)
-*   Extras will not be included in the grading system; however, they help boost your grade if ever your total grade is in the upper part of a grade range. 
-*   At the end of the semester, we will run a script to verify all submissions. Be careful if the name is not correct you will get a zero. 
-*   Submitting extra programs is optional.
 
 *   **How to test your programe**
 
@@ -58,12 +50,13 @@ weight: 1
 
 *   **programming rules**
 
-*   Do always follow the homework specification. Do not using some cheating skills. For example your bubble sort and selection sort are the same. Once detected, 0 for the homework.
+*   Do always follow the homework specification.
+*   Do not use some cheating skills. For example your bubble sort and selection sort are the same. Once detected, you will get 0 on the homework.
 *   Do not use int main() or void main(). Do use int main(int argc, char* argv[]).
 *   Do not use hard coding. For example, file.open("1.txt");
 *   Do not halt or wait user's interaction. For example, system("pause");
 *   Do not submit your homework in the blackboard
 *   Do test your program in the Linux server before you submit the homework
 *   Do design and test testcases as many as possible. Your program may pass easy testcases but fail for hard testcases
-*   Your code will probably reuse in the next homework.
-*   Do not share and copy code. If you use some code in the internet or book, disclose it in your code, otherwise you are cheating! Once detected, F for the course grade, at least.
+*   Your code might be reused in the next homework.
+*   Do not share and copy code. If you use some code from the internet or the book, disclose it in your code, otherwise you are cheating! Once detected, you will get an F for the course grade.
