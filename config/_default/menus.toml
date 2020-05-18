@@ -12,25 +12,33 @@
   name = "Service"
   url = "files/nsm.pdf"
   weight = 20
-[[main]]
-  name = "Statement"
-  url = "files/statement.pdf"
-  weight = 30
 
+  
 [[main]]
-  name = "NSM Statement"
+  name = "Research"
   url = "files/nsm.pdf"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Courses"
   url = "courses/"
+  weight = 40
+
+[[main]]
+  name = "Statement"
+  url = "files/statement.pdf"
   weight = 50
+
+[[main]]
+  name = "NSM Statement"
+  url = "files/nsm.pdf"
+  weight = 60
+
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 
 

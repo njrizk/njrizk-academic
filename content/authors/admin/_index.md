@@ -15,7 +15,7 @@ role: Instructional Professor and Director of Undergraduates
 # Organizations/Affiliations
 organizations:
   - name: University Of Houston
-    url: ""
+    url: "www.uh.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, educational data mining, machine learning and information retrieval.
