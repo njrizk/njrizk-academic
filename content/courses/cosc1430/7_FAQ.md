@@ -1,13 +1,13 @@
 ---
-title: Re-grading Homework
-linktitle: Re-grading Homework
+title: FAQ
+linktitle: FAQ
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
   cosc1430:
-    weight: 4
+    weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
