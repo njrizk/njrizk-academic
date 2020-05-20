@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC 1430 - Introduction to Programming 
+linktitle: COSC 1430 - Introduction to Programming New
 summary: Learn how to Program in C++
 weight: 1
 
