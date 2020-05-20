@@ -43,34 +43,3 @@ For example, assume the homework4 deadline is **3/11/20xx**
 
  
   
-
-
-
-
-
-
-
-
-
-
-- **cp 1.txt 2.txt** to copy a file 1.txt to 2.txt
-- **mv 1.txt folder** to move a filename 1.txt to folder
-- **cat 1.txt** to display the content of 1.txt
-- **ls** to list all files and folders in the current directory
-- **cd hw1** to change directory to folder hw1
-- **cd ..** to change directory to the parent folder
-- **cd ~** to change directory to the home directory
-- **nano main.cpp** to edit the file main.cpp
-- **chmod +rx grade.sh** to make grade.sh readable and executable
-
-- **programming rules**
-
-- Do always follow the homework specification. Do not using some cheating skills. For example your bubble sort and selection sort are the same. Once detected, 0 for the homework.
-- Do not use int main() or void main(). Do use int main(int argc, char\* argv[]).
-- Do not use hard coding. For example, file.open("1.txt");
-- Do not halt or wait user's interaction. For example, system("pause");
-- Do not submit your homework in the blackboard
-- Do test your program in the Linux server before you submit the homework
-- Do design and test testcases as many as possible. Your program may pass easy testcases but fail for hard testcases
-- Your code will probably reuse in the next homework.
-- Do not share and copy code. If you use some code in the internet or book, disclose it in your code, otherwise you are cheating! Once detected, F for the course grade, at least.
