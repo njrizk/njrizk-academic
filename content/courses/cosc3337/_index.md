@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle:  COSC 1430 - Summer2020 - Introduction to Programming 
-summary: Learn how to Program in C++
+linktitle:  COSC 3337- Summer2020 - Introduction to Data Science I 
+summary: Learn how to Program in Python
 weight: 1
 
 # Page metadata.
