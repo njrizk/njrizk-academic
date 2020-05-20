@@ -9,4 +9,4 @@ menu:
   cosc3337:
     weight: 2
 ---
-#*   [The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
+#*   [Building skills for Data Science By Dr. Nouhad Rizk.](https://uhlibraries.pressbooks.pub/buildingskillsfordatascience/)
