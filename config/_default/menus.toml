@@ -10,28 +10,29 @@
 
 [[main]]
   name = "Service"
-  url = "files/nsm.pdf"
+  url = "files/Services.pdf"
   weight = 20
 
   
 [[main]]
   name = "Research"
-  url = "files/nsm.pdf"
+  url = "files/Rizk-Quad.pdf"
   weight = 30
+
+ 
+[[main]]
+  name = "Teaching"
+  url = "files/Teaching.pdf"
+  weight = 40
 
 [[main]]
   name = "Courses"
   url = "courses/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Statement"
   url = "files/statement.pdf"
-  weight = 50
-
-[[main]]
-  name = "NSM Statement"
-  url = "files/nsm.pdf"
   weight = 60
 
 
@@ -39,6 +40,12 @@
   name = "Contact"
   url = "#contact"
   weight = 70
+
+[[main]]
+  name = "NSM Statement"
+  url = "files/nsm.pdf"
+  weight = 80
+
 
 
 
