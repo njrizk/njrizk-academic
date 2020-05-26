@@ -23,9 +23,8 @@ weight: 5
     *   denselmult.cpp: Load a dense matrix A from a file. Calculate C=A*A. Output C to a file
     *   ArgumentManager.h is a command line parser. I strongly recommend all students use it in your homework
 *   Homework summary
-    *   According to syllabus, there will be 5 homework and 1 final regrade in this spring session. Normally, the difficulty of homework is incremantal. But none of them are related.
-    *   When the due date was decided and posted to this website, you will have at least one week to do it. It's your obligation to refresh this website frequently to keep on track of the requirements of the homework. Based on the feedback of the students, the requirements may have minor change after the first release, you should always download the new requirements when you encounter some typos or errors in the requirements
-*   Homework requirements and deadline
+    *   According to syllabus, there will be 4 homework and 1 final regrade in this summer session. Normally, the difficulty of homework is incremantal. But none of them are related.
+    *  
 
 *   [[hw0](https://drive.google.com/drive/folders/1q-afGZwV89f3rAGW4WZR1Gxzts8Uns1v?usp=sharing)]: deadline: June 7th, 2020 at 10:00 AM. Created by TA Kunpeng
 *   [[hw1]( https://drive.google.com/drive/folders/1RBceOeRiLEZTeqXGAGkyNprbkLhufRJY?usp=sharing
