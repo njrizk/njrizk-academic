@@ -29,4 +29,5 @@ weight: 5
 *   [[hw0](https://drive.google.com/drive/folders/1q-afGZwV89f3rAGW4WZR1Gxzts8Uns1v?usp=sharing)]: deadline: June 7th, 2020 at 10:00 AM. Created by TA Kunpeng
 *   [[hw1]( https://drive.google.com/drive/folders/1RBceOeRiLEZTeqXGAGkyNprbkLhufRJY?usp=sharing
 )]: deadline: June 10th, 2020 at 10:00 AM. Created by TA Kunpeng
-*   
+*   [[hw2]( https://drive.google.com/drive/folders/1Wlqyy10_VgwpYef1Blx8NEhMKkCVWH9R?usp=sharing
+)]: deadline: June 17th, 2020 at 10:00 AM. Created by TA Kunpeng
