@@ -31,3 +31,4 @@ weight: 5
 )]: deadline: June 10th, 2020 at 10:00 AM. Created by TA Kunpeng
 *   [[hw2]( https://drive.google.com/drive/folders/1Wlqyy10_VgwpYef1Blx8NEhMKkCVWH9R?usp=sharing
 )]: deadline: June 17th, 2020 at 10:00 AM. Created by TA Kunpeng
+*  [[Hw3]](https://drive.google.com/drive/folders/1bKDDy7m7zTaW5ap_9V2CWd4LEXnegEqf?usp=sharing)]:deadline: June 24th, 2020 at 10:00 AM. Created by TA Kunpeng.
