@@ -41,10 +41,10 @@
   url = "#contact"
   weight = 70
 
-[[main]]
-  name = "NSM Statement"
-  url = "files/nsm.pdf"
-  weight = 80
+#[[main]]
+ # name = "NSM Statement"
+ # url = "files/nsm.pdf"
+  #weight = 80
 
 
 
