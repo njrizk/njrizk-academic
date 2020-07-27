@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC 2430 - Data Structures and Algorithms
+linktitle: Fall 2020- COSC 2430 - Data Structures and Algorithms
 summary: Learn how to Data Structures and algorithms
 weight: 1
 
@@ -13,7 +13,7 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
-  cosc:
+  cosc2430:
     name: Overview
     weight: 1
 ---
