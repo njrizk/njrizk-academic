@@ -13,7 +13,7 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
-  cosc:
+  cosc2430:
     name: Overview
     weight: 1
 ---
