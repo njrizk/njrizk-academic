@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC 2430 - Data Structures and Algorithms
+linktitle: COSC  - Data Structures and Algorithms
 summary: Learn how to Data Structures and algorithms
 weight: 1
 
