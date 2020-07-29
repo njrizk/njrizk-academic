@@ -1,16 +1,14 @@
 ---
-title: Group Assignments
-linktitle: Group Assignments
+title: Homework
+linktitle: Homework
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
 menu:
-  cosc3337S:
-    weight: 7
+  cosc3337summer:
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 6
+weight: 5
 ---
-
-* **Please Refer to labs in the Blackboard.**
