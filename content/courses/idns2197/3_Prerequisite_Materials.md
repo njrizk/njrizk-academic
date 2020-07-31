@@ -1,5 +1,5 @@
 ---
-title: Excercie
+title: Prerequisite Materials
 linktitle: Prerequisite Materials
 toc: true
 type: docs
