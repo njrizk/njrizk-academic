@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle:  COSC 1430 - S 2020 - Introduction to Programming 
+linktitle:  COSC 1430 - Summer 2020 - Introduction to Programming 
 summary: Learn how to Program in C++
 weight: 1
 
