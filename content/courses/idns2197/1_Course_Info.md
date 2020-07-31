@@ -13,9 +13,11 @@ menu:
 weight: 1
 ---
 
-*   **Lab Hour:**PGH 
-*   **Lab Session:**
-    *   1\. Th 10:00AM -11:30 AM
-    *   2\. Th 11:30 AM -1:00 PM
-    *   3\. Th 1:00 PM -2:30 PM
-    *   4\. Th 2:30 PM -4:00 PM
+*   ** PGH IDNS 2197 Top-Natrl Sci Mth**
+University of Houston | Fall 2020 |
+About: SEP Workshops provide a relaxed atmosphere in a supportive environment with experienced peer instructors
+who take a special interest in their students’ success. SEP serves approximately 700 students through workshops each semester and is one of the most academically diverse Peer- Led Team Learning programs in the nation.
+
+Prerequisites: This section has a co-enrollment requirement. The workshop must be added at the same time or after the associated course. Please add sections:
+IDNS 2197
+COSC 2430

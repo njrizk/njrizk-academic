@@ -7,7 +7,26 @@ date: 2019-05-05T00:00:00+01:00
 weight: "1"
 
 ---
-*   [The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
+*   
+** Resources **
+Reference book : Data-abstraction-and-problem-soving-with-c By Weiss
+Data Structures Using C++ by Malik
+
+** Slideshows **
+Dr. Rizk’s webpage slides
+** Practice problems **
+Hackerrank
+Code Forces
+Kattis
+LeetCode
+
+** Tools **
+VisuAlgo
+Big-O
+Repl.it
+
+
+[The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
 *   Don't know how to install and use SSH on Windows? Follow the instructions [here](http://www.ohlone.edu/org/webcenter/sftptutorial/windowssftp-downloadinstall.html).  
     A video tutorial can be found on [YouTube](https://www.youtube.com/watch?v=mncUlFUiHNM&feature=youtu.be). (Credits to our student **Christopher Holley**, thank you Chris!)
 *   A tutorial for SSH on Linux can be found [here](http://support.suso.com/supki/SSH_Tutorial_for_Linux).
