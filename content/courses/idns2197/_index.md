@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: IDNS2197  - Workshop  Data Structures and Algorithms
-summary: Learn how to compete
+summary: Competitive Programming
 weight: 1
 
 # Page metadata.
