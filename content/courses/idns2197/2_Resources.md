@@ -7,20 +7,20 @@ date: 2019-05-05T00:00:00+01:00
 weight: "1"
 
 ---
-*   
-** Resources **
+*   **Resources** 
+
 Reference book : Data-abstraction-and-problem-soving-with-c By Weiss
 Data Structures Using C++ by Malik
 
-** Slideshows **
+*   **Slide Shows** 
 Dr. Rizk’s webpage slides
-** Practice problems **
+*   **Practice Problems** 
 Hackerrank
 Code Forces
 Kattis
 LeetCode
 
-** Tools **
+*   **Tools** 
 VisuAlgo
 Big-O
 Repl.it

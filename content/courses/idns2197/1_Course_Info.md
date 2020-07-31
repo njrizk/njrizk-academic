@@ -13,7 +13,7 @@ menu:
 weight: 1
 ---
 
-*   ** PGH IDNS 2197 Top-Natrl Sci Mth**
+*   **IDNS 2197 Top-Natrl Sci Mth** 
 University of Houston | Fall 2020 |
 About: SEP Workshops provide a relaxed atmosphere in a supportive environment with experienced peer instructors
 who take a special interest in their students’ success. SEP serves approximately 700 students through workshops each semester and is one of the most academically diverse Peer- Led Team Learning programs in the nation.
