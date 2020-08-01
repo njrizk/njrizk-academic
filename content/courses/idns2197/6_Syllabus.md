@@ -90,6 +90,11 @@ Search in a Binary Search Tree Merge Two Binary Trees
 		Destination City
 Kth Largest Element in an Array
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 #[[hw0](https://drive.google.com/drive/folders/1q-afGZwV89f3rAGW4WZR1Gxzts8Uns1v?usp=sharing)]:  # #deadline: June 7th, 2020 at 10:00 AM. Created by TA Kunpeng
 #[[hw1]( https://drive.google.com/drive/folders/1RBceOeRiLEZTeqXGAGkyNprbkLhufRJY?usp=sharing
