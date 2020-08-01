@@ -17,9 +17,9 @@ weight: 5
 *   [demo](https://drive.google.com/drive/folders/1vNe7CJFRd-VJX-Kr8GXQjGSKdT2nk-xE?usp=sharing)
 
    
-
+| Week       | Slides & Book Pages          | Reinforce Excercises | Code Forces Excercises   | References         | Find the Bugs |
 |Week|	Slides & Book Pages|	Reinforce Exercise|	Code Forces Exercise|	References|	Find the Bugs|
-| ------------- |:-------------:| -----:|| ------------- |:-------------:| -----:|
+| ------------- |:-------------:| -----:| -------------: |:-------------:| -----:|
 |1|	Basic C++
 Recursion Chapter 1
 Page 8|	Pointer
