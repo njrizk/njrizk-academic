@@ -19,10 +19,8 @@ weight: 5
    
 | Week       | Slides & Book Pages          | Reinforce Excercises | Code Forces Excercises   | References         | Find the Bugs |
 | ------------- |:-------------:| -----:| -------------: |:-------------:| -----:|
-|1|	Basic C++
-Recursion Chapter 1
-Page 8|	Pointer
-Fibonacci Number Calculate Nth Term	Word Expression Pangram	|What is CP? Math Essentials Cheat Sheet|	FTB1 FTB2|
+|1|	Basic C++ Recursion Chapter 1 Page 8|	Pointer Fibonacci Number Calculate Nth Term|	Word Expression Pangram|What is CP? Math Essentials Cheat Sheet|FTB1 FTB2|
+
 |2|	Array	Array	Two Arrays And Swaps	Linked List	FTB3
 	Linked List	Print LL	Most Unstable Array		FTB4
 	Chapter 3: 3.1,3.2, 3.3
