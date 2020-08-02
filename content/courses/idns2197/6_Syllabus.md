@@ -18,7 +18,6 @@ weight: 5
 
    
 | Week       | Slides & Book Pages          | Reinforce Excercises | Code Forces Excercises   | References         | Find the Bugs |
-|Week|	Slides & Book Pages|	Reinforce Exercise|	Code Forces Exercise|	References|	Find the Bugs|
 | ------------- |:-------------:| -----:| -------------: |:-------------:| -----:|
 |1|	Basic C++
 Recursion Chapter 1
