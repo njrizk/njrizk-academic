@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC 3337- Fall2020 - Introduction to Data Science I
+linktitle: Fall 2020 - COSC 3337- Introduction to Data Science I
 summary: Learn how to Program in Python
 weight: 1
 
