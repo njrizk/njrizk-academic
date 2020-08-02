@@ -10,4 +10,4 @@ menu:
     weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-# weight: 1
+weight: 5
