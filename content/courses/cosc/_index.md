@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: COSC  - Data Structures and Algorithms
+linktitle: Sample - COSC  - Data Structures and Algorithms
 summary: Learn how to Data Structures and algorithms
 weight: 1
 
