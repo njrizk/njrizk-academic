@@ -9,9 +9,6 @@ menu:
   idns2197:
     weight: 2
 ---
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
-
 *   **Resources** 
 
 Reference book : Data-abstraction-and-problem-soving-with-c By Weiss
