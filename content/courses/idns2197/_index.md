@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle:  IDNS2197  - Workshop  Data Structures and Algorithms 
+linktitle:  IDNS2197  - Fall 2020 - Workshop  Data Structures and Algorithms 
 summary: Competitive Programming 
 weight: 1
 
