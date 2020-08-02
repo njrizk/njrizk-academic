@@ -11,6 +11,7 @@ menu:
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
+---
 # <!---  #  --*   Group Assignment requirements and deadline -->
 # []: # c3  --*   [[ga1](https://drive.google.com/drive/folders/15GUKc6oumiaopDjU0pD4lprFIhCSITH9?
 # []: # usp=sharing)]: --deadline: February 5th, 2020 at 11:59 PM. Created by TA Salah.
