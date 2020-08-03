@@ -22,7 +22,7 @@ menu:
 *  **Course Description** 
  Covers the design, analysis, and implementation of data structures and algorithms to solve problems using an object-oriented programming language. Topics include elementary data structures, (including arrays, stacks, queues, and lists), advanced data structures (including trees and graphs), the algorithms used to manipulate these structures, and their application to solving practical engineering problems.
 
-
+*  ![Text Book](url = "img/weiss288.jpg")
 *  # [Open Book](https://open.umn.edu/opentextbooks/textbooks/open-data-structures-an-introduction)
 
 
