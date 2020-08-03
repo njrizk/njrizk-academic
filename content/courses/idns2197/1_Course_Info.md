@@ -13,7 +13,6 @@ menu:
 weight: 1
 ---
 
-*   **IDNS 2197 Top-Natrl Sci Mth** 
 | WORKSHOP          	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
 |-------------------	|----------------	|----------------------	|
 | Class             	| Section        	| Days & Times         	|
