@@ -33,7 +33,3 @@ weight: 1
 | -20227                                                   	|                                             	|          	|                        	|   	|   	|   	|
 | COSC 2430-08                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Th 4:00PM - 5:30PM     	|   	|   	|   	|
 | -20228                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COMBINED WORKSHOP 	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
-|-------------------	|----------------	|----------------------	|
-| Class             	| Section        	| Days & Times         	|
-| 26613             	| 01-LEC Regular 	| TuTh 5:30PM - 7:00PM 	|
