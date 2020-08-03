@@ -12,8 +12,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
-*   **| My Teaching Schedule > Fall 2020 > University of Houston |                                                         |          |                        |   |   |   |
+| My Teaching Schedule > Fall 2020 > University of Houston |                                                         |          |                        |   |   |   |
 |----------------------------------------------------------|---------------------------------------------------------|----------|------------------------|---|---|---|
 | synchronous online class                                 | lectures/labs at the exact times listed on the schedule |          |                        |   |   |   |
 | Class                                                    | Class Title                                             | Enrolled | Days & Times           |   |   |   |
@@ -29,4 +28,3 @@ weight: 1
 | -20227                                                   |                                                         |          |                        |   |   |   |
 | COSC 2430-08                                             | Programming and Data Structure (Laboratory)             | LAB      | Th 4:00PM - 5:30PM     |   |   |   |
 | -20228                                                   |                                                         |          |                        |   |   |   |
-    
