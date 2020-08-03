@@ -22,8 +22,8 @@ menu:
 *  **Course Description** 
  Covers the design, analysis, and implementation of data structures and algorithms to solve problems using an object-oriented programming language. Topics include elementary data structures, (including arrays, stacks, queues, and lists), advanced data structures (including trees and graphs), the algorithms used to manipulate these structures, and their application to solving practical engineering problems.
 
-*  ![Text Book](img/Weiss288.jpg)
-<img class="centered" src="{% static 'img/Weiss288.jpg'  %}"> Textbook
+*  # [Text Book: Data Structure and Algorithms Analysis By Weiss](http://www.uoitc.edu.iq/images/documents/informatics-institute/Competitive_exam/DataStructures.pdf)
+<!--- <img class="centered" src="{% static 'img/Weiss288.jpg'  %}"> Textbook -->
 *  # [Open Book](https://open.umn.edu/opentextbooks/textbooks/open-data-structures-an-introduction)
 
 
