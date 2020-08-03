@@ -13,8 +13,20 @@ menu:
 weight: 1
 ---
 
-*   **Lab Hour:**MS Teams 
-*   **Lab Session:**
-    *   1\. Monday  12:00 PM -2:00 PM
-    *   2\. Wednesday 12:00 PM -2:00 PM
+*   **| My Teaching Schedule > Fall 2020 > University of Houston |                                                         |          |                        |   |   |   |
+|----------------------------------------------------------|---------------------------------------------------------|----------|------------------------|---|---|---|
+| synchronous online class                                 | lectures/labs at the exact times listed on the schedule |          |                        |   |   |   |
+| Class                                                    | Class Title                                             | Enrolled | Days & Times           |   |   |   |
+| COSC 2430-03                                             | Programming and Data Structure (Lecture)                | LECTURE  | TuTh 10:00AM - 11:30AM |   |   |   |
+| -20223                                                   |                                                         |          |                        |   |   |   |
+| COSC 2430-04                                             | Programming and Data Structure (Laboratory)             | LAB      | Th 11:30AM - 1:00PM    |   |   |   |
+| -20224                                                   |                                                         |          |                        |   |   |   |
+| COSC 2430-05                                             | Programming and Data Structure (Laboratory)             | LAB      | Th 2:30PM - 4:00PM     |   |   |   |
+| -20225                                                   |                                                         |          |                        |   |   |   |
+| COSC 2430-06                                             | Programming and Data Structure (Lecture)                | LECTURE  | TuTh 11:30AM - 1:00PM  |   |   |   |
+| -20226                                                   |                                                         |          |                        |   |   |   |
+| COSC 2430-07                                             | Programming and Data Structure (Laboratory)             | LAB      | Th 1:00PM - 2:30PM     |   |   |   |
+| -20227                                                   |                                                         |          |                        |   |   |   |
+| COSC 2430-08                                             | Programming and Data Structure (Laboratory)             | LAB      | Th 4:00PM - 5:30PM     |   |   |   |
+| -20228                                                   |                                                         |          |                        |   |   |   |
     
