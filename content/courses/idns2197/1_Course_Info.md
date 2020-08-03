@@ -12,7 +12,6 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
 | WORKSHOP          	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
 |-------------------	|----------------	|----------------------	|
 | Class             	| Section        	| Days & Times         	|
