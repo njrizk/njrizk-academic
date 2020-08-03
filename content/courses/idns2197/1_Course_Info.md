@@ -14,10 +14,9 @@ weight: 1
 ---
 
 *   **IDNS 2197 Top-Natrl Sci Mth** 
-University of Houston | Fall 2020 |
-About: SEP Workshops provide a relaxed atmosphere in a supportive environment with experienced peer instructors
-who take a special interest in their students’ success. SEP serves approximately 700 students through workshops each semester and is one of the most academically diverse Peer- Led Team Learning programs in the nation.
+| WORKSHOP          	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
+|-------------------	|----------------	|----------------------	|
+| Class             	| Section        	| Days & Times         	|
+| 26613             	| 01-LEC Regular 	| TuTh 5:30PM - 7:00PM 	|
 
-Prerequisites: This section has a co-enrollment requirement. The workshop must be added at the same time or after the associated course. Please add sections:
-IDNS 2197
-COSC 2430
+**Prerequisites: This section has a co-enrollment requirement. The workshop must be added at the same time or after the associated course. Please add sections: IDNS 2197 && COSC 2430**
