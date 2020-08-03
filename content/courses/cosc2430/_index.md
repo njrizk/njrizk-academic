@@ -26,6 +26,7 @@ menu:
 <!--- <img class="centered" src="{% static 'img/Weiss288.jpg'  %}"> Textbook -->
 *  [Open Book](https://open.umn.edu/opentextbooks/textbooks/open-data-structures-an-introduction)
 
+![](img/Weiss288.jpg) image3
 
 | COMBINED WORKSHOP 	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
 |-------------------	|----------------	|----------------------	|
