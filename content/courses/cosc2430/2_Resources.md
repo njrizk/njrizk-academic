@@ -19,8 +19,8 @@ menu:
 
 *   **Frequently used linux commands**
 
-*   **ssh username@program.cs.uh.edu** to login. The initial password contains 9 digits, PSID + Captital Initial Last name + Capital Initial First name. It's recommended to use **passwd** to modify the initial passwd. You must remember the password. If you forget the password, you have to go to PGH527 to ask the adminisrtator to reset it. Again, please remember your password.
-*   **scp -r file_or_folder username@program.cs.uh.edu:~/hw1/** to upload a file or a folder to hw1 folder on the server
+*   **ssh username@code.cs.uh.edu** to login. The initial password contains 9 digits, PSID + Captital Initial Last name + Capital Initial First name. It's recommended to use **passwd** to modify the initial passwd. You must remember the password. If you forget the password, you have to go to PGH527 to ask the adminisrtator to reset it. Again, please remember your password.
+*   **scp -r file_or_folder username@code.cs.uh.edu:~/hw1/** to upload a file or a folder to hw1 folder on the server
 *   **cp 1.txt 2.txt** to copy a file 1.txt to 2.txt
 *   **mv 1.txt folder** to move a filename 1.txt to folder
 *   **cat 1.txt** to display the content of 1.txt
