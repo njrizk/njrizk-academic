@@ -19,8 +19,11 @@ menu:
 ---
 
 
-*   
- C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible.
+*  **Course Description** 
+ Covers the design, analysis, and implementation of data structures and algorithms to solve problems using an object-oriented programming language. Topics include elementary data structures, (including arrays, stacks, queues, and lists), advanced data structures (including trees and graphs), the algorithms used to manipulate these structures, and their application to solving practical engineering problems.
+
+*  # [[Open Book](https://open.umn.edu/opentextbooks/textbooks/open-data-structures-an-introduction)
+
 
 | COMBINED WORKSHOP 	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
 |-------------------	|----------------	|----------------------	|
