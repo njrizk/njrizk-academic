@@ -13,7 +13,7 @@ menu:
 weight: 1
 ---
 
-| Synchronous online class       	| Lectures labs at the exact times listed on the schedule 	|
+| Synchronous online class       	| Lectures at the exact times listed on the schedule 	|
 |--------------------------------	|---------------------------------------------------------	|
 | Integrated or external webcam  	| with microphone is required for taking exams            	|
 | Students must have the ability 	| to send scans of paper documents                        	|
