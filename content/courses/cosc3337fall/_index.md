@@ -19,5 +19,17 @@ menu:
 ---
 
 -
+*  **Course Description** 
+ Data science process, data preprocessing, exploratory data analysis, data visualization, basic statistics, basic machine learning concepts, classification and prediction, similarity assessment, clustering, post-processing and interpreting data analysis results, use of data analysis tools and programming languages and data analysis case studies.
 
-Data science
+ *  **Software**
+ Make sure to download [Anaconda]( https://repo.anaconda.com/). Let me know via email in case you encounter difficulties.
+
+ *  **Books**
+ While lecture notes will serve as the main source of material for the course, the following book constitutes a great reference:
+
+  *Rizk, Nouhad[Building Skills for Data Science](https://uhlibraries.pressbooks.pub/buildingskillsfordatascience/)
+
+  *Open Books
+    [1\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=1895687&query=data+mining) 
+    [2\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=4851656)

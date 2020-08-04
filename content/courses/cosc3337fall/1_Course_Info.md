@@ -19,7 +19,6 @@ weight: 1
 | Students must have the ability 	| to send scans of paper documents                        	|
 |                                	|                                                         	|
 
-*
 
 | My Teaching Schedule > Fall 2020 > University of Houston 	|                          	|                       	|
 |----------------------------------------------------------	|--------------------------	|-----------------------	|
