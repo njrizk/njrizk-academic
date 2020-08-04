@@ -11,4 +11,4 @@ menu:
 ---
 
 * **All Workbooks are due the day of Exam1 at 8:00 AM**
-* **All workbooks should be submitted in .ipynb INDIVIDUALLY**
+* **All workbooks should be named as Wk#_LastnameFirstname and submitted as .ipynb (and .pdf is optional) INDIVIDUALLY**
