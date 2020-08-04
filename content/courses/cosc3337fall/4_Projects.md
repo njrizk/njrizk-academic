@@ -1,6 +1,6 @@
 ---
-title: Homework Grading
-linktitle: Homework Grading
+title: Projects
+linktitle: Projects
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -21,7 +21,7 @@ Add a description cell before each cell and a result interpretation cell after m
 Email the TA ahead of time the project selected as well as the dataset name.
 Name your project as COSC3337_Project#_LastnameFirstname and submit as .ipynb (and .pdf is optional)
 
-  **Extra point(+4): Building a data storytelling of your project**
-  **A student can do up to 4 projects Specified in Blackboard**
-  **Each Project is worth +10 points on Exam1 (p1 && p2) and Exam2 (p3 && p4)**
-  **Deadline November 30th for all projects**
+-  **Extra point(+4): Building a data storytelling of your project**
+-  **A student can do up to 4 projects Specified in Blackboard**
+-  **Each Project is worth +10 points on Exam1 (p1 && p2) and Exam2 (p3 && p4)**
+-  **Deadline November 30th for all projects**
