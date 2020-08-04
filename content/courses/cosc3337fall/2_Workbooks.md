@@ -10,4 +10,5 @@ menu:
     weight: 2
 ---
 
-#\* [Building skills for Data Science By Dr. Nouhad Rizk.](https://uhlibraries.pressbooks.pub/buildingskillsfordatascience/)
+* **All Workbooks are due the day of Exam1 at 8:00 AM**
+* **All workbooks should be submitted in .ipynb INDIVIDUALLY**
