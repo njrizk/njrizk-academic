@@ -13,5 +13,15 @@ menu:
 weight: 1
 ---
 
-- **Lecture Hour:**MS Teams
--
+| Synchronous online class       	| Lectures labs at the exact times listed on the schedule 	|
+|--------------------------------	|---------------------------------------------------------	|
+| Integrated or external webcam  	| with microphone is required for taking exams            	|
+| Students must have the ability 	| to send scans of paper documents                        	|
+|                                	|                                                         	|
+
+*
+
+| My Teaching Schedule > Fall 2020 > University of Houston 	|                          	|                       	|
+|----------------------------------------------------------	|--------------------------	|-----------------------	|
+| Class                                                    	| Class Title              	| Days & Times          	|
+| COSC 3337-02 -19213                                      	| Data Science I (Lecture) 	| TuTh 8:30AM - 10:00AM 	|
