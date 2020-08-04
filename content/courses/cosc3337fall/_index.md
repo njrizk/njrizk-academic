@@ -27,9 +27,9 @@ menu:
  *  **Books**
  While lecture notes will serve as the main source of material for the course, the following book constitutes a great reference:
 
-  Rizk, Nouhad [Building Skills for Data Science](https://uhlibraries.pressbooks.pub/buildingskillsfordatascience/)
+        Rizk, Nouhad [Building Skills for Data Science](https://uhlibraries.pressbooks.pub/buildingskillsfordatascience/)
 
-  Open Books
-    **[1\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=1895687&query=data+mining) 
+        Open Books
+        **[1\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=1895687&query=data+mining) 
 
-    **[2\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=4851656)
+        **[2\.](https://ebookcentral.proquest.com/lib/uh/detail.action?docID=4851656)
