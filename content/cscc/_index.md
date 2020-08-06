@@ -18,5 +18,5 @@ menu:
     weight: 1
 ---
 
-Put your overview info here here.
-abc
+The University of Houston Computer Science CS Consulting Clinic (CSCC) is a clinical program in which second and third year STEM students, under the direct supervision of a faculty member, assist Houston-area entrepreneurs and nonprofit organizations by providing assistance in implementing the technological solution as an end-product.
+For more information about the CSCC and the work we do, please see our [Frequently Asked Questions].
