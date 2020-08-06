@@ -11,6 +11,7 @@ menu:
 ---
 
 <span style="color:red">**Potential Client FAQs.** </span>
+
 <span style="color:blue">**What is the CS Consulting Clinic?** </span> 
 Universities have been transformed in many ways, major and minor. It is truly time to create a new kind of a real-world setting that provides access to experience to a much more diverse student population, as easily as it reaches out to “engage” the larger community.
 The CS Consulting Clinic is a framework for integrating experiential learning and service-learning effectively into computer science curriculum. In the Consulting Clinic course students will act as consultant to Houston entrepreneurs within the SURE™ Program. It is a practicum course for computer science students using SURE Entrepreneurs as clients.
@@ -33,7 +34,8 @@ Clients accepted by the CSCC does not have to pay, but highly encouraged to dona
 <span style="color:blue">**Still have questions?** </span> 
 If you still have questions, please contact Nouhad Rizk, Instructional Professor and CSCC Director, at njrizk@uh.edu.
 
-<span style="color:red">some **UH Student FAQs.** text</span>
+<span style="color:red">**UH Student FAQs.**</span>
+
 What is the UH student's role in the CS Consulting Clinic? 
 Students take the lead representing the CSCC’s clients under the supervision of the program director. Students are given a combination of clients with which to work during the semester including small businesses, aspiring entrepreneurs, and nonprofit organizations. Students will have the opportunity to  implement a solution such as developing an information system for an organization’s administrators, developing a web site for an organization or school, developing classroom software for a school, implementing a network for an organization, implementing urban technology project, and analyzing data at all levels.
 Students will also have an opportunity to improve their public speaking skills through the clinic's partnership with the SURE Program at the C.T. Bauer College of Business for which CSCC students will prepare and perform presentations on a range of computer science topics during the course of the semester.
