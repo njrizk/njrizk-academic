@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Sample - Consulting Clinic
+linktitle: ahome
 summary: Learn how to
 weight: 1
 
