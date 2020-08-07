@@ -25,11 +25,8 @@ The University of Houston Computer Science CS Consulting Clinic (CSCC) is a prac
 For more information about the CSCC and the work we do, please see our [Frequently Asked Questions](/cscc/2_student-faqs/).
 <img src="/img/Forms-of-WIL-visual.png" alt="Experiential Learning" style="width: 100%; max-width:100%"/>
 
-
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="<figure class="video_container">
   <iframe src="https://www.youtube.com/watch?v=MiAx3zDuFOk" frameborder="0" allowfullscreen="true"> </iframe>
-  </figure>" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
