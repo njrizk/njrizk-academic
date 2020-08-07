@@ -28,8 +28,5 @@ For more information about the CSCC and the work we do, please see our [Frequent
 <iframe width="854" height="480" src="https://youtu.be/MiAx3zDuFOk" frameborder="0" allowfullscreen></iframe>
 
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=MiAx3zDuFOk" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
+<iframe width="946" height="532" src="https://www.youtube.com/embed/MiAx3zDuFOk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
