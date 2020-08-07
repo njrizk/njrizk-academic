@@ -28,6 +28,8 @@ For more information about the CSCC and the work we do, please see our [Frequent
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=MiAx3zDuFOk" frameborder="0" allowfullscreen="true"> </iframe>
+  </figure>" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
