@@ -13,5 +13,5 @@ menu:
 weight: 3
 ---
 
-- **......**
+
   <span style="color: #ff0000; font-family: Babas; font-size: 2em;">UNIVERSITY OF HOUSTON</span>
