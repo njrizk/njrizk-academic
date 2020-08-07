@@ -39,12 +39,12 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Consulting Clinic"
   url = "cscc/"
-  weight = 80
+  weight = 70
 
 
 # Link to a PDF of your resume/CV from the menu.
