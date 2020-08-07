@@ -5,7 +5,7 @@ summary: Learn how to
 weight: 1
 
 # Page metadata.
-title: <span style="color: #ff0000; font-family: Babas; font-size: 2em;">UNIVERSITY OF HOUSTON</span>
+title: UNIVERSITY OF HOUSTON
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
