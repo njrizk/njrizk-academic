@@ -36,7 +36,7 @@ Clients accepted by the CSCC does not have to pay, but highly encouraged to dona
 
 <span style="color:blue">**Still have questions?** </span> 
 
-If you still have questions, please contact Nouhad Rizk, Instructional Professor and CSCC Director, at njrizk@uh.edu.
+If you still have questions, please contact Nouhad Rizk, Instructional Professor and CSCC Director, at <span style="color:blue">njrizk@uh.edu</span>.
 
 <span style="color:red">**UH Student FAQs.**</span>
 
@@ -64,5 +64,5 @@ Yes. Part time students have the opportunity to work with a faculty member who o
 
 <span style="color:blue">**Still have questions?** </span>
 
-If you still have questions, please contact Nouhad Rizk, Instructional Professor and CSCC Director, at njrizk@uh.edu.
+If you still have questions, please contact Nouhad Rizk, Instructional Professor and CSCC Director, at <span style="color:blue">njrizk@uh.edu</span> .
 
