@@ -8,5 +8,8 @@ weight: "2"
 menu:
   cscc:
     weight: 2
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 *   [Potential Client Application.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
