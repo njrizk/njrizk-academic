@@ -17,4 +17,14 @@ weight: 2
 
 The **CSCC** works collaboratively with the [SURE™ Program](https://www.bauer.uh.edu/sure/) at the C.T. Bauer College of Business. The SURE™ Program’s mission is to provide an educational platform that facilitates a value-added partnership between UH students, industry experts, and entrepreneurs from under-resourced communities. Specifically, the SURE™ Program provides FREE financial and business education, business consulting, and prepares entrepreneurs to access capital.
 
-As part of **CSCC**’s collaboration with the SURE™ Program, CSCC student give presentations on Computer topics at SURE™ Program events. The CSCC also receives referrals of potential clients through the SURE™ Program, many of whom attended past student presentations.
+* As part of **CSCC**’s collaboration with the SURE™ Program, CSCC student gives presentations on Computer topics at SURE™ Program events. The CSCC also receives referrals of potential clients through the SURE™ Program, many of whom attended past student presentations.
+
+
+
+ The **CSCC** works collaboratively with the [Cougar Initiative to Engage](www.uh.edu/coogsengage). The CITE mission is to provide opportunities for student learning, discovery, and engagement in a real-world setting.
+
+* As part of **CSCC**’s collaboration with the CITE Program, CSCC students will demonstarte two learning outcomes: problem solving, and teamwork. 
+
+  The assessment rubrics for **problem solving** are independent. Every level reflects the mastering of knowledge. The first level will be limited knowledge in applying skills by identifying the problem. The second level will be basic demonstration in applying knowledge and skills in addressing more than one perspective to distinguish between fact, opinion and to acknowledge value judgments including perspectives drawn from outside information. The third level will be comprehensive skills in applying essential knowledge and skill by examining the evidence and analyzing the scope and context. The fourth level will be through demonstration in applying effective and sophisticated knowledge and skill by Identifying and discussing conclusions.
+
+  **Teamwork** will be integrated by sharing ideas, by engaging all team members in discussion and contribution, by encouraging team members to ask questions, to put forward ideas to enhance their effectiveness and completing tasks, by providing learning opportunities on an ongoing basis, to strengthen the skills and capabilities of growth and development and by cooperating at all levels. The assessment rubrics for teamwork can be measured by Teamwork skills, project planning skills, and fostering a team climate.
