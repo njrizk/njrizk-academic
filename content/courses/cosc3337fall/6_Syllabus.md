@@ -12,7 +12,9 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
 ---
-[Syllabus](/files/NouhadRizk_COSC3337_syllabus_Fall2020%20(1).pdf)
+
+
+[Click this link to review the Current Syllabus](/files/NouhadRizk_COSC3337_syllabus_Fall2020%20(1).pdf)
 
 
 

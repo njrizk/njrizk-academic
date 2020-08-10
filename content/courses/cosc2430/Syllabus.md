@@ -11,7 +11,7 @@ weight = 1
 
 +++
 
-[Syllabus](/files/NouhadRizk_Syllabus_COSC2430_Fall2020_online%20(1).pdf)
+[Click this link for Current Syllabus](/files/NouhadRizk_Syllabus_COSC2430_Fall2020_online%20(1).pdf)
 
 
 <iframe width="1061" height="597" src="https://www.youtube.com/embed/9H0A6CsAGug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
