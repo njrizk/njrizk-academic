@@ -9,7 +9,7 @@ menu:
   cosc2430:
     weight: 2
 ---
-*   The Server is  <font size="4"> 2430.cs.uh.edu </font>
+*   The Server is  <font size="16"> 2430.cs.uh.edu </font>
 *   [Connect to linux server](https://drive.google.com/file/d/1uWypN3bpi-HEskHhK7GHrlUjyKKudap2/view?usp=sharing)
 *   [The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
 *   [What is the Argument Manager?](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
