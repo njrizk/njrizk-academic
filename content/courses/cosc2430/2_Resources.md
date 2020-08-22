@@ -12,7 +12,7 @@ menu:
 
 *   [Connect to linux server](https://drive.google.com/file/d/1uWypN3bpi-HEskHhK7GHrlUjyKKudap2/view?usp=sharing)
 *   [The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
-*   [waht is the Argument Manager?](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
+*   [What is the Argument Manager?](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
 *   Don't know how to install and use SSH on Windows? Follow the instructions [here](http://www.ohlone.edu/org/webcenter/sftptutorial/windowssftp-downloadinstall.html).  
     A video tutorial can be found on [YouTube](https://www.youtube.com/watch?v=mncUlFUiHNM&feature=youtu.be). (Credits to our student **Christopher Holley**, thank you Chris!)
 *   A tutorial for SSH on Linux can be found [here](http://support.suso.com/supki/SSH_Tutorial_for_Linux).
