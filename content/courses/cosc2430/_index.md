@@ -31,3 +31,14 @@ menu:
 |-------------------	|----------------	|----------------------	|
 | Class             	| Section        	| Days & Times         	|
 | 26613             	| 01-LEC Regular 	| TuTh 5:30PM - 7:00PM 	|
+
+
+| Time              | Days | Times         | Name          | Questions      | Email                        |
+|-------------------|------|---------------|---------------|----------------|------------------------------|
+| 11:30 AM-01:00 PM | Th   | Section 20224 | Kiet          | HWs Questions  | Kietdinh1995@gmail.com       |
+|                   |      |               |               |                |                              |
+| 02:30 PM-04:00 PM | Th   | Section 20225 | Justin / Vyda | GAs Questions  | jrpower3@gmail.com           |
+|                   |      |               |               |                | ptuy2@uh.edu                 |
+| 01:00 PM-02:30 PM | Th   | Section 20227 | Joseph/Tan    | Labs Questions | skim91@uh.edu                |
+|                   |      |               |               |                | tpham45@uh.edu               |
+| 04:00 PM-05:30 PM | Th   | Section 20228 | Kyle          | HWs Questions  | kylecunningham9999@gmail.com |
