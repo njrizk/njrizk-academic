@@ -10,6 +10,7 @@ menu:
     weight: 2
 ---
 *   The Server is  <font size="14"> **2430.cs.uh.edu** </font>
+*   [ How to test your HW in repl.it](/files/How%20to%20test%20hw%20using%20repl.pdf) (Credits to our student **Arno Dunstatter**, thank you Arno !)
 *   [Connect to linux server](https://drive.google.com/file/d/1uWypN3bpi-HEskHhK7GHrlUjyKKudap2/view?usp=sharing)
 *   [The first Lab hour video.](https://drive.google.com/open?id=1p4zqRJVi2-kSEpFQ8jO-F0z6TvZg78iz)
 *   [What is the Argument Manager?](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
