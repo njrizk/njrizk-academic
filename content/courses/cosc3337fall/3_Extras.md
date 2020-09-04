@@ -18,6 +18,9 @@ weight: 2
 - Usually no detailed instructions for extra programs. The student can design the program and test cases freely and add additional functionality to the main program.
 
 - Each extra should be under the root with a folder name extra_m_w_n. The order is important (m means the month when the extra is given, should between 8-11 for fall semester; 1-5 for spring semester. w means the week of the extra was given, should between 1-5. n means the number of the extra, if only one extra was given in that week, use 1, if two were given, use 1, 2, like extra_2_1_1 and extra_2_1_2, n should between 1-5)
+- Extra: Extra_month_week_#_LastnameFirstname
+- Ex: 3rd extra on 2nd week of September: Extra_9_2_3_LastFirst
+- 2nd extra on 3rd week of September: Extra_9_3_2_LastFirst
 
 - Precede the name of the extra with your peoplesoft so extra_2_1_2 should be 123456_extra_2_1_2
 

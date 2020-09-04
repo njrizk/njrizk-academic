@@ -10,5 +10,9 @@ menu:
     weight: 2
 ---
 
-* **All Workbooks are due the day of Exam1 at 8:00 AM**
-* **All workbooks should be named as Wk#_LastnameFirstname and submitted as .ipynb (and .pdf is optional) INDIVIDUALLY**
+* **All Workbooks are due September the 13th  at 11:59 PM**
+* **All workbooks should be submitted as .ipynb (and .pdf is optional) **
+*  **Please follow the naming convention I provided below.
+* **Workbook: Wk#_LastnameFirstname**
+* **Ex: Wk1_LastFirst**
+
