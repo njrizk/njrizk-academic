@@ -37,14 +37,19 @@
 
 
 [[main]]
+  name = "Peer Video Recording Library"
+  url = "Recording Library/"
+  weight = 70
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 90
 
 [[main]]
   name = "Consulting Clinic"
   url = "cscc/"
-  weight = 70
+  weight = 80
 
 
 # Link to a PDF of your resume/CV from the menu.
