@@ -13,7 +13,7 @@ toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
-  Recording Library:
+  Recording:
     name: Home
     weight: 1
 ---
