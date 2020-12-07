@@ -15,5 +15,6 @@ weight: 4
 <span style="color:red">**UH Student Kattis Competition Problems.**</span>
 
 
+[Fall2020_Guess the Number_Thien Pham](https://www.youtube.com/watch?v=ERN_gQgkes0&ab_channel=thienpham) 
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
