@@ -12,8 +12,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 3
 ---
-<
-span style="color:red">**UH Student Group Assignment.**</span>
+<span style="color:red">**UH Student Group Assignment.**</span>
 
 
 
