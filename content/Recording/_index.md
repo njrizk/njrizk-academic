@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: ahome
-summary: Learn how to
+summary: Learn how to Record
 weight: 1
 
 # Page metadata.
@@ -17,7 +17,7 @@ menu:
     name: Home
     weight: 1
 ---
-  
+
 <span style="color: #ff0000; font-family: Babas; font-size: 2em;">Peer Video Recording Library CS@UH</span><br>
 <span style="color: #ff0000; font-family: Babas; font-size: 2em;">Data Structures><br>
 
