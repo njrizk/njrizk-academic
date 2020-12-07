@@ -38,7 +38,7 @@
 
 [[main]]
   name = "Peer Videos"
-  url = "recording/"
+  url = "record/"
   weight = 70
 
 [[main]]
