@@ -1,6 +1,6 @@
 ---
-title: Extra Problems
-linktitle: Extra Problems
+title: Kattis Competition Problems
+linktitle: Kattis Competition Problems
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -12,7 +12,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
-<span style="color:red">**UH Student Extra Problems.**</span>
+<span style="color:red">**UH Student Kattis Competition Problems.**</span>
 
 
 
