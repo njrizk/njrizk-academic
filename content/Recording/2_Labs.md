@@ -9,7 +9,9 @@ menu:
   recording:
     weight: 2
 ---
-
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: "1"
+---
 <span style="color:red">**UH Student Labs.**</span>
 
 [Lab1](https://www.bauer.uh.edu/sure/) 
