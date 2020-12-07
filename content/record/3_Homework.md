@@ -1,6 +1,6 @@
 ---
-title: Our Partners
-linktitle: Our Partners
+title: Homework
+linktitle: Homework
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
@@ -13,7 +13,7 @@ menu:
 weight: 2
 ---
 
-span style="color:red">**UH Student Homework.**</span>
+<span style="color:red">**UH Student Homework.**</span>
 
 
 

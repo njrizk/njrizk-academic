@@ -17,6 +17,8 @@ menu:
     name: Home
     weight: 1
 --- 
+<span style="color: #ff0000; font-family: Babas; font-size: 2em;">Peer Video Recording Library CS@UH</span><br>
+
 The Peer Video Recording Library at Computer Science offers another space for students to talk their way into learning. Students record their own problem solving startegy responding to labs or Homework or Group Assignment.
 As a supplement to classroom content, video recording is a flexible and accessible space for student practice.
 
