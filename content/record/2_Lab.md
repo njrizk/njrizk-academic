@@ -28,6 +28,7 @@ menu:
 [Fall2020_Lab5_Mayowa Awojuyigbe](https://drive.google.com/file/d/13qOvqkisorseGZbQ_Osk7rN0NPoPVyFg/view?usp=sharing) 
 
 
+[Fall2020_Lab5_Joshua Smith](https://www.youtube.com/watch?v=QlUD7FemVPw) 
 
 
 
