@@ -16,7 +16,7 @@ weight: 2
 <span style="color:red">**UH Student Homework.**</span>
 
 
-[Fall2020_HW5_Tailer Nguyen](https://urldefense.com/v3/__https://youtu.be/CFbpBGw38R0__;!!LkSTlj0I!SD7Fa4zm-j9EE9lGfifDAnv80ByaLMRrnwYS6t2WLLC_R8kKllhBEBsKyqpNZKKkPQg$) 
+[Fall2020_HW5_Tailer Nguyen](https://youtu.be/CFbpBGw38R0) 
 
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
