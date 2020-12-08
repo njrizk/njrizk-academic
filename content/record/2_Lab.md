@@ -13,6 +13,9 @@ menu:
 
 <span style="color:red">**UH Student Labs.**</span>
 
+[Tutorial_Uisng the server_Tharun Natarajan Prabhu](https://youtu.be/8GmzgWliuew)
+
+
 [Fall2020_Lab1_Maria Romero](https://drive.google.com/file/d/1Fe1ewXxtJ4tCeRRFF0scakWY0VPkZnT1/view/) 
 
 [Fall2020_Lab2_John Jackson](https://www.youtube.com/watch?v=YBppVEoNvUQ) 
