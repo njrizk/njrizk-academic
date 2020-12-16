@@ -16,7 +16,7 @@ menu:
 [Tutorial_Uisng the server_Tharun Natarajan Prabhu](https://youtu.be/8GmzgWliuew)
 
 
-[Fall2020_Lab1_Maria Romero](https://drive.google.com/file/d/1Fe1ewXxtJ4tCeRRFF0scakWY0VPkZnT1/view/) 
+[Fall2020_Lab1_Maria Romero](https://youtu.be/ERHXB2iBts8) 
 
 [Fall2020_Lab2_John Jackson](https://www.youtube.com/watch?v=YBppVEoNvUQ) 
 
@@ -34,6 +34,9 @@ menu:
 [Fall2020_Lab5_Joshua Smith](https://www.youtube.com/watch?v=QlUD7FemVPw) 
 
 
+[Fall2020_Lab6_Murtaza Zaidi](https://youtu.be/h-1U5bOXAg8)
+
+[Fall2020_Lab6_Kat Hernandez](https://youtu.be/N8-7h8rMAb8) 
 
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> 

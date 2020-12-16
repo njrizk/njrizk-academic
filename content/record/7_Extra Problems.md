@@ -13,7 +13,6 @@ menu:
 weight: 6
 ---
 <span style="color:red">**UH Student Extra Problems.**</span>
-
-
+[Fall2020_Datetype](https://youtu.be/wl6ar_WQry0)
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .

@@ -17,5 +17,6 @@ weight: 4
 
 [Fall2020_Guess the Number_Thien Pham](https://www.youtube.com/watch?v=ERN_gQgkes0&ab_channel=thienpham) 
 
+[Fall2020_Missing Numbers_Minh Pascal](https://www.youtube.com/watch?v=Lx-XYhcZLD0&t=244s)
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
