@@ -18,6 +18,7 @@ weight: 2
 
 [Fall2020_HW0_Neel Patel](https://www.youtube.com/watch?v=M6jCnd-Vb-8)
 
+
 [Fall2020_HW1_Het Thakkar](https://youtu.be/N-NoLY1yWLo)
 
 [Fall2020_HW2_Het Thakkar](https://youtu.be/S0FqU2pOI5g) 

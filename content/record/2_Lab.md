@@ -21,10 +21,14 @@ menu:
 [Fall2020_Lab2_John Jackson](https://www.youtube.com/watch?v=YBppVEoNvUQ) 
 
 
+[Fall2020_Lab2_Mike Yannuzzi](https://www.youtube.com/watch?v=-ZQGdqdFisA&ab_channel=MikeYannuzzi)
+
+
+
 [Fall2020_Lab3_Kat Hernandez](https://youtu.be/MSoJexVpBk8) 
 
 
-[Fall2020_Lab4_Brezalel Leviston](https://web.microsoftstream.com/video/0125c8dd-e672-495a-81b6-938f60663693) 
+[Fall2020_Lab4_Brezalel Leviston](https://youtu.be/TLs3qHJDsBE) 
 
 [Fall2020_Lab4_Nicole Garcia](https://youtu.be/fb0UF767jQY)
 
