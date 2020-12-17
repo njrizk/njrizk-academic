@@ -21,6 +21,9 @@ weight: 2
 
 [Fall2020_HW2_Tony Cerda](https://www.youtube.com/watch?v=WwsU1pvz1C0&ab_channel=TonyCerda)
 
+[Fall2020_HW3_Melika Nassizadeh](https://www.youtube.com/playlist?list=PLUc9lAwgodUFhfBY_WJ-nnGvtN6_nkXsF)
+
+
 [Fall2020_HW4_Syed Rizvi](https://youtu.be/oiG_O8Mc_VY) 
 
 [Fall2020_HW5_Tailer Nguyen](https://youtu.be/CFbpBGw38R0) 
