@@ -15,7 +15,7 @@ weight: 6
 <span style="color:red">**UH Student Extra Problems.**</span>
 
 
-[Fall2020_DateType_Dillon Thomas](https://youtu.be/wl6ar_WQry0)
+[Fall2020_DateType_Dillon Zachariah](https://youtu.be/wl6ar_WQry0)
 
 
 [Fall2020_Searching BST_Murtaza Zaidi](https://youtu.be/SLY0Lt-RFlI)
@@ -40,5 +40,5 @@ weight: 6
 
  [Fall2020_completing different equations with linked list_Rasean Branch](https://youtu.be/ITZmet_pnPM)
 
- 
+
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
