@@ -26,6 +26,7 @@ menu:
 
 [Fall2020_Lab4_Brezalel Leviston](https://web.microsoftstream.com/video/0125c8dd-e672-495a-81b6-938f60663693) 
 
+[Fall2020_Lab4_Nicole Garcia](https://youtu.be/fb0UF767jQY)
 
 
 [Fall2020_Lab5_Mayowa Awojuyigbe](https://drive.google.com/file/d/13qOvqkisorseGZbQ_Osk7rN0NPoPVyFg/view?usp=sharing) 
@@ -33,6 +34,9 @@ menu:
 
 [Fall2020_Lab5_Joshua Smith](https://www.youtube.com/watch?v=QlUD7FemVPw) 
 
+[Fall2020_Lab5_Cecilia Tamayo Garza](​https://youtu.be/sYPuq5yZ3vM) 
+
+[Fall2020_Lab5_Muhaimin Badar](https://www.youtube.com/watch?v=qSNTjNNFQFg&feature=youtu.be)
 
 [Fall2020_Lab6_Murtaza Zaidi](https://youtu.be/h-1U5bOXAg8)
 

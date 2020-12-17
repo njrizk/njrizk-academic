@@ -22,4 +22,16 @@ weight: 4
 [Fall2020_Chewbacca_Orion Orr](https://www.youtube.com/watch?v=Xl8BrCOAzRs&feature=youtu.be)
 
 
+[Fall2020_Battleship_Hugh Hoang](https://youtu.be/5Rm3ag4pGac )
+
+[Fall2020_Bookcase_Shannon Lombardo](https://youtu.be/ekPUhDspfLo)
+
+[Fall2020_Sideway Sorting_Tuan Tran](https://www.youtube.com/watch?v=ejCWy4aNWjg&feature=youtu.be&ab_channel=TuanTr%C3%A2nMinh)
+
+[Fall2020_Frozen Rose Heads_Damon Spencer](https://youtu.be/weTVXa1W2JI)
+
+[Fall2020_Chewbacca_John Jakson](https://www.youtube.com/watch?v=S41yQEKP0I8&feature=youtu.be)
+
+
+
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
