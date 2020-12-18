@@ -23,3 +23,5 @@ The Peer Video Recording Library at Computer Science offers another space for st
 As a supplement to classroom content, video recording is a flexible and accessible space for student practice.
 
 When students are self-assessing or reflecting on their strengths, or challenges, recording their thoughts instead of writing offers a space free of red pen marks. In video recording, students can back up, self-correct, and restate as they think. Most students are already eager to talk about their experiences. With video recording, they can complete the assignment in a medium with which many of them are already quite practiced and comfortable.
+
+[A Special Message for Dr. Rizk](https://youtu.be/pVbbjncuV_4)
