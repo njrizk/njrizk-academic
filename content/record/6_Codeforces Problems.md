@@ -28,5 +28,7 @@ weight: 5
 
 [Fall2020_Ostap and Grasshopper_Ahmed Qureshi](https://www.youtube.com/watch?v=JfdcSr7pRHo&feature=youtu.be)
 
+[Fall2020_Planets_Daniel Khuu](https://www.youtube.com/watch?v=Os7PrxUwgAg&feature=youtu.be)
+
 
 If you are intrested in recording, please contact Nouhad Rizk, Instructional Professor  at <span style="color:blue">njrizk@uh.edu</span> .
