@@ -21,7 +21,7 @@ menu:
 <span style="color: #ff0000; font-family: Babas; font-size: 2em;">EXPERIENTIAL LEARNING CS@UH</span><br>
 <span style="color: #ff0000; font-family: Babas; font-size: 2em;">CONSULTING CLINIC</span><br>
 
-The University of Houston Computer Science CS Consulting Clinic (CSCC) is a practicum program in which second and third year STEM students, under the direct supervision of a faculty member, assist Houston-area entrepreneurs and nonprofit organizations by providing assistance in implementing the technological solution as an end-product.
+The University of Houston Computer Science CS Consulting Clinic (CSCC) is a practicum program in which second and third year STEM students, under the direct supervision of Dr. Rizk, assist Houston-area entrepreneurs and nonprofit organizations by providing assistance in implementing the technological solution as an end-product.
 For more information about the CSCC and the work we do, please see our [Frequently Asked Questions](/cscc/2_student-faqs/).
 <img src="/img/Forms-of-WIL-visual.png" alt="Experiential Learning" style="width: 100%; max-width:100%"/>
 
