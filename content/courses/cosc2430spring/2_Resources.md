@@ -9,7 +9,7 @@ menu:
   cosc2430spring:
     weight: 2
 ---
-[+] Noun
+# Noun
 nouhad
 *   The Server is  <font size="14"> **2430.cs.uh.edu** </font>
 *   [How to test your HW in repl.it](/files/How%20to%20test%20hw%20using%20repl.pdf) (Credits to our student **Arno Dunstatter**, thank you Arno !)
