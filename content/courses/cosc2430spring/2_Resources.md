@@ -10,7 +10,7 @@ menu:
     weight: 2
 ---
 # Noun
-nouhad
+
 *   The Server is  <font size="14"> **2430.cs.uh.edu** </font>
 *   [How to test your HW in repl.it](/files/How%20to%20test%20hw%20using%20repl.pdf) (Credits to our student **Arno Dunstatter**, thank you Arno !)
 *   [Connect to linux server](https://drive.google.com/file/d/1uWypN3bpi-HEskHhK7GHrlUjyKKudap2/view?usp=sharing)
