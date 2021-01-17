@@ -30,15 +30,15 @@ menu:
 | COMBINED WORKSHOP 	| IDNS 2197      	| Top-Natrl Sci & Mth  	|
 |-------------------	|----------------	|----------------------	|
 | Class             	| Section        	| Days & Times         	|
-| 26613             	| 01-LEC Regular 	| TuTh 5:30PM - 7:00PM 	|
+| 28552             	| 01-LEC Regular 	| TuTh 4:00PM - 5:30PM 	|
 
 
 | Time              | Days | Times         | Name          | Questions      | Email                        |
 |-------------------|------|---------------|---------------|----------------|------------------------------|
-| 11:30 AM-01:00 PM | Th   | Section 20224 | Kiet          | HWs Questions  | Kietdinh1995@gmail.com       |
+| 11:30 AM-01:00 PM | Th   | Section 22521 | Tan          | Labs Questions  | tpham45@uh.edu       |
 |                   |      |               |               |                |                              |
-| 02:30 PM-04:00 PM | Th   | Section 20225 | Justin / Vyda | GAs Questions  | jrpower3@gmail.com           |
+| 01:00 PM-02:30 PM | Th   | Section 22523 |  Sai | Labs Questions  | sdpatibandla@uh.edu           |
 |                   |      |               |               |                | ptuy2@uh.edu                 |
-| 01:00 PM-02:30 PM | Th   | Section 20227 | Joseph/Tan    | Labs Questions | skim91@uh.edu                |
-|                   |      |               |               |                | tpham45@uh.edu               |
-| 04:00 PM-05:30 PM | Th   | Section 20228 | Kyle          | HWs Questions  | kylecunningham9999@gmail.com |
+| TBA | Th   | Section 29489 | Kyle    | Hws Questions | kylecunningham9999@gmail.com|
+|                   |      |               |               |                | Kietdinh1995@gmail.com             |
+| 04:00 PM-05:30 PM | Th   | Section 20228 | Kyle          | HWs Questions  |  |
