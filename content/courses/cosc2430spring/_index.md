@@ -35,10 +35,10 @@ menu:
 
 | Time              | Days | Times         | Name          | Questions      | Email                        |
 |-------------------|------|---------------|---------------|----------------|------------------------------|
-| 11:30 AM-01:00 PM | Th   | Section 22521 | Tan          | Labs Questions  | tpham45@uh.edu       |
+| 11:30 AM-01:00 PM | Tu   | Section 22521 | Tan          | Labs Questions  | tpham45@uh.edu       |
 |                   |      |               |               |                |                              |
-| 01:00 PM-02:30 PM | Th   | Section 22523 |  Sai | Labs Questions  | sdpatibandla@uh.edu           |
-|                   |      |               |               |                | ptuy2@uh.edu                 |
+| 01:00 PM-02:30 PM | Tu   | Section 22523 |  Sai | Labs Questions  | sdpatibandla@uh.edu           |
+|                   |      |               |               | GAs Questions       | ptuy2@uh.edu                 |
 | TBA | Th   | Section 29489 | Kyle    | Hws Questions | kylecunningham9999@gmail.com|
-|                   |      |               |               |                | Kietdinh1995@gmail.com             |
-| 04:00 PM-05:30 PM | Th   | Section 20228 | Kyle          | HWs Questions  |  |
+|                   |      |               |               |    Kattis Questions            | Kietdinh1995@gmail.com             |
+  |
