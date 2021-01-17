@@ -13,9 +13,8 @@ menu:
 weight: 1
 ---
 
-*  [<font size="10"> Week_1_1  </font>](https://docs.google.com/forms/d/1awRHN-gnvrz-W0RH-14yq9LcbSnoBAsXdK6O9rtckYQ/edit)
+*  [<font size="8"> Week_1_1  </font>](https://docs.google.com/forms/d/1awRHN-gnvrz-W0RH-14yq9LcbSnoBAsXdK6O9rtckYQ/edit)
 
-#*  [<font size="10"> Week_1_2  </font>](https://docs.google.com/forms/d/1Xv4kdKoLEUDqqJ9K5uJGyMYj9XcigROohQaJxEFe0gg/edit)
+# *  [<font size="10"> Week_1_2  </font>](https://docs.google.com/forms/d/1Xv4kdKoLEUDqqJ9K5uJGyMYj9XcigROohQaJxEFe0gg/edit)
 
 
-<iframe width="1061" height="597" src="https://www.youtube.com/embed/9H0A6CsAGug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
