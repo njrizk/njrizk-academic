@@ -12,12 +12,12 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
 ---
-[Click this link to review the Current Asynchronous Syllabus](https://github.com/njrizk/njrizk-academic/blob/master/static/files/NouhadRizk_Syllabus_COSC2430_Spring2021_Asynchronous.pdf)
+[Click this link to review the Current Asynchronous Syllabus](/files/NouhadRizk_Syllabus_COSC2430_Spring2021_Asynchronous.pdf)
 
-[Click this link to review the Current Face-to-FAce Syllabus](https://github.com/njrizk/njrizk-academic/blob/master/static/files/NouhadRizk_Syllabus_COSC2430_Spring2021_Face_to_Face.pdf)
+[Click this link to review the Current Face-to-FAce Syllabus](/files/NouhadRizk_Syllabus_COSC2430_Spring2021_Face_to_Face.pdf)
 
 
-[Click this link to review the Current Synchronous Syllabus](https://github.com/njrizk/njrizk-academic/blob/master/static/files/NouhadRizk_Syllabus_COSC2430_Spring2021_synchronous.pdf)
+[Click this link to review the Current Synchronous Syllabus](/files/NouhadRizk_Syllabus_COSC2430_Spring2021_synchronous.pdf)
 
 
 
