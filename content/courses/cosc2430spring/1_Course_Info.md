@@ -18,18 +18,18 @@ weight: 1
 | Students must have the ability 	| to send scans of paper documents                        	|
 |                                	|                                                         	|
 
-| My Teaching Schedule > Fall 2020 > University of Houston 	|                                             	|          	|                        	|   	|   	|   	|
+| My Teaching Schedule > Spring 2021 > University of Houston 	|                                             	|          	|                        	|   	|   	|   	|
 |----------------------------------------------------------	|---------------------------------------------	|----------	|------------------------	|---	|---	|---	|
 | Class                                                    	| Class Title                                 	| Enrolled 	| Days & Times           	|   	|   	|   	|
-| COSC 2430-03                                             	| Programming and Data Structure (Lecture)    	| LECTURE  	| TuTh 10:00AM - 11:30AM 	|   	|   	|   	|
-| -20223                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COSC 2430-04                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Th 11:30AM - 1:00PM    	|   	|   	|   	|
-| -20224                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COSC 2430-05                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Th 2:30PM - 4:00PM     	|   	|   	|   	|
-| -20225                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COSC 2430-06                                             	| Programming and Data Structure (Lecture)    	| LECTURE  	| TuTh 11:30AM - 1:00PM  	|   	|   	|   	|
-| -20226                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COSC 2430-07                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Th 1:00PM - 2:30PM     	|   	|   	|   	|
-| -20227                                                   	|                                             	|          	|                        	|   	|   	|   	|
-| COSC 2430-08                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Th 4:00PM - 5:30PM     	|   	|   	|   	|
-| -20228                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-03                                             	| Programming and Data Structure (Lecture/Synch)    	| LECTURE  	| TuTh 8:30 AM - 10:00 AM 	|   	|   	|   	|
+| -24763                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-04                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| Tu 11:30AM - 1:00PM    	|   	|   	|   	|
+| -22521                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-05                                             	| Programming and Data Structure (Lecture/Face-to-Face) 	| LECTURE      	| TuTh 10:00 AM - 11:30 AM     	|   	|   	|   	|
+| -22522                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-06                                             	| Programming and Data Structure (Lab/Face-to-Face)    	| LAB  	| Tu 1:00 PM - 2:30 PM  	|   	|   	|   	|
+| -22523                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-07                                             	| Programming and Data Structure (Lecture/Asynch) 	| LECTURE      	| TBA     	|   	|   	|   	|
+| -294887                                                   	|                                             	|          	|                        	|   	|   	|   	|
+| COSC 2430-08                                             	| Programming and Data Structure (Laboratory) 	| LAB      	| TBA     	|   	|   	|   	|
+| -29489                                                   	|                                             	|          	|                        	|   	|   	|   	|
