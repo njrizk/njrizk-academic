@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle:   Spring 2021- COSC 2430 - Data Structures and Algorithms
+linktitle:   1Spring 2021- COSC 2430 - Data Structures and Algorithms
 summary: Data Structures and algorithms
 weight: 1
 
