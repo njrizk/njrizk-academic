@@ -12,8 +12,9 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
+**Peer Evaluation**: At every presentation, each student will provide a peer evaluation of the studnet presenter by filling a [form](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWY8YjOkV-85Jgixhvnt1-dxUMUc0M1RPTFhVWEYzR0VKNlpXMFY5TE9LWiQlQCN0PWcu) in Ms Teams.
 
-- **Peer Evaluation :**
+- **Final Peer Evaluation :**
 #1 What progress has been made?
 #2 Were the desired project objectives achieved?
 #3 Do the project results justify the project inputs?
@@ -24,7 +25,8 @@ weight: 4
 Go through these questions at the end of week 8 to make sure you get better results at the end.
 
 Why did you create this project/program?
-What processes were planned and how were they implemented in the project? Other questions that might be helpful: Was the right audience reached? Are appropriate staff in place with necessary skills? Did you have the right mix of activities?
+What processes were planned and how were they implemented in the project? 
+Did you have the right mix of activities?
 Were there any variations in the process and why?
 How could the project be improved?
 What were the short-term outcomes?

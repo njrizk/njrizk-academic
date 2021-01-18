@@ -13,8 +13,12 @@ menu:
 weight: 5
 ---
 
+<span style="color: #ff0000; font-family: Babas; font-size: 1em;">Current Projects</span><br>
 
-*  
+*  **Project 1:** 
+
+*  **Project 2:** 
+
 
   <!-- This is commented out. -->
 
