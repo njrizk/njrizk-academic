@@ -1,0 +1,24 @@
+---
+title: Sprint
+linktitle: Sprint
+toc: true
+type: docs
+date: "2019-05-05T00:00:00+01:00"
+draft: false
+menu:
+  jesus:
+    weight: 4
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 3
+---
+
+- **When to submit your Sprint**
+| Week    | Topic                                                     |
+|---------|-----------------------------------------------------------|
+| Week 2  | Presentation: Business Model for client.                  |
+| Week 4  | Presentation: Business case                               |
+| Week 6  | Presentation: Statement of Work and Baseline Project Plan |
+| Week 8  | Presentation: User documentation and Training             |
+| Week 12 | Presentation: Peer Evaluation.                            |
+| Week 14 | Presentation: Present the implementation of your project. |
