@@ -15,35 +15,31 @@ weight: 1
 Hidden....................
 
 
-*  [<font size="6"> Week_1_1  </font>](https://docs.google.com/forms/d/1awRHN-gnvrz-W0RH-14yq9LcbSnoBAsXdK6O9rtckYQ/edit)
+*  [<font size="6"> Week_1_1  </font>](https://forms.gle/LdHsyLiz6Xs4xAvM7)
 
- *  [<font size="6"> Week_1_2  </font>](https://docs.google.com/forms/d/1Xv4kdKoLEUDqqJ9K5uJGyMYj9XcigROohQaJxEFe0gg/edit) 
+*  [<font size="6"> Week_1_2  </font>](https://forms.gle/XPSHdKX5uzZKBvUw7) 
 
-*  [<font size="6"> Week_2_1  </font>](https://docs.google.com/forms/d/1TU-cpSvFjCyiqg9JfFiii52irfr2vPz0uIkL6swsZt8/edit) 
+*  [<font size="6"> Week_2_1  </font>](https://forms.gle/4J9x3HGa1tPTgXKm9) 
 
- [<font size="6"> Week_2_2  </font>](https://docs.google.com/forms/d/1NUhB-pE6PHqKbInYnLzMGZiKGzXaon191YHIH8vxYyg/edit) 
+*  [<font size="6"> Week_2_2  </font>](https://forms.gle/9eypUnMW6itNjSi27) 
 
-*  [<font size="6"> Week_3_1  </font>](
-https://docs.google.com/forms/d/18YEobcnG5Nf_lADVaFZ2ZumEWFBfhIL8mTiG-w3tmpk/edit)
+*  [<font size="6"> Week_3_1  </font>](https://forms.gle/3HZrh3tszoQ9QB5M6)
 
-*  [<font size="6"> Week_3_2  </font>](https://docs.google.com/forms/d/1wtJmRkEsbPfKcvipvAd_hP3gjKcZnZpzVHAxxCFv9Lo/edit)
-
+*  [<font size="6"> Week_3_2  </font>]https://forms.gle/QSt342GehpzyqmsX8)
 
 
-*  [<font size="6"> Week_4_1  </font>](https://docs.google.com/forms/d/1VEW-8XQTiDA5iFaCZVZ3n6Q-hBQnjC2agzSbWPCCq94/edit)
+*  [<font size="6"> Week_4_1  </font>](https://forms.gle/SztGJ2yEuRqtCiVH7)
 
-*  [<font size="6"> Week_4_2  </font>](https://docs.google.com/forms/d/1sWzb5kP5-fyOUmZ_lSFu3UEVQRMecyrwB3yoBFQ173s/edit)
-
-
+*  [<font size="6"> Week_4_2  </font>](https://forms.gle/mPRJXotyRaJ2k1ET8)
 
 
-*  [<font size="6"> Week_5_1  </font>](https://docs.google.com/forms/d/17FGxZZn4GQG8fql2icGUHTNAxc7bbFYIDf0IUQ95K48/edit)
+*  [<font size="6"> Week_5_1  </font>](https://forms.gle/AhsEV9wA6oFjE53c6)
 
-*  [<font size="6"> Week_5_2  </font>](https://docs.google.com/forms/d/1qZpU7F5sWwzoXTNd_P241jTZtZzVi1U1exqFTa60py0/edit)
+*  [<font size="6"> Week_5_2  </font>](https://forms.gle/HA5U4n1N6uWEko3B9)
 
 
 
-*  [<font size="6"> Week_6_2  </font>](https://docs.google.com/forms/d/1HPM2AjBDxCkuGMlk-0063vuOIbXV4pxfiiNL5XTiYBM/edit)
+*  [<font size="6"> Week_6_2  </font>](https://forms.gle/UvBgyqGRvGntGUf78)
 
 <!-- 
 
