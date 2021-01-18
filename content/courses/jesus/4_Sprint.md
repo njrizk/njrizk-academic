@@ -13,11 +13,12 @@ menu:
 weight: 3
 ---
 
-[Client Backlog](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
-*   [Sprint-Activities Report(14 Days)]()
+* [Client Backlog](https://drive.google.com/drive/folders/1PcZvy1P72nArqj_gmKSX8ELw8jTpe8_N?usp=sharing)
+
+* [Sprint-Activities Report(14 Days)]()
 
 
-- **When to submit your Sprint**
+**When to submit your Sprint**
 
 
 | Week    | Topic                                                     |
