@@ -29,6 +29,7 @@ menu:
 
 
 **Theoretical Learning Course Objectives**
+
 * Equip the student with the tools necessary to succeed in a high-paced work environment and instilling a broad sense of the societal impact of IT
 * Address human, community, and environmental needs. Students are expected to work with people of many different backgrounds to identify and achieve goals. They need educational experiences that can help them broaden their skills.
 
@@ -39,6 +40,7 @@ menu:
 3. Gain real world experience that embeds service learning. 
 
 **Consulting Clinic course Objectives**
+
 1. Collaboration between Computer Science and the SURE Program
 2. Create systems in a nontraditional, public service-oriented social context. It challenges them to evaluate and analyze the complex contributors associated with understanding the problem domain. 
 3. Learn to leverage skills, education, and relationships to find solutions for the entrepreneurs by implementing the right software.
@@ -46,6 +48,7 @@ menu:
 
 
 **Text Book**
+
 Agile Project Management: Creating Innovative Products
 By James A. Highsmith
 Addison-Wesley Professional;  2nd edition, 
