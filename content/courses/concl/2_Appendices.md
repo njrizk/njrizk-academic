@@ -10,7 +10,7 @@ menu:
     weight: 2
 ---
 
-*   [Student Profile] ()
+*   [Student Profile](/files/Student%20Profile.pdf)
 
 *   [A: Team Email Activity Report Format](/files/How%20to%20test%20hw%20using%20repl.pdf) Each Team should send a biweekly official email to the client, the mentor, the TA and Dr Rizk explaining the key accomplishments and the key activities for the next 14 days.
 *   [B: Program Manager Email Activity Report Format](https://drive.google.com/file/d/1uWypN3bpi-HEskHhK7GHrlUjyKKudap2/view?usp=sharing). In the event that one client has several student teams, a student program manager is appointed.Program Manager should Email Activity report biweekly to the mentor, TA and Dr Rizk.
