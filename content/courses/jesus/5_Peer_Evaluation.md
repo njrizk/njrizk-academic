@@ -14,7 +14,8 @@ weight: 4
 ---
 **Peer Evaluation**: At every presentation, each student will provide a peer evaluation of the studnet presenter by filling a [form](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWY8YjOkV-85Jgixhvnt1-dxUMUc0M1RPTFhVWEYzR0VKNlpXMFY5TE9LWiQlQCN0PWcu) in Ms Teams.
 
-- **Self Evaluation :**
+**Self Evaluation :**
+
 Go through these questions at the end of **week 8** to make sure you get better results at the end.
 
 * Why did you create this project/program?
@@ -30,7 +31,8 @@ Go through these questions at the end of **week 8** to make sure you get better 
 * What are the expected long-term outcomes? What can be done to further enhance sustainability  of the project?
 
 
-- **Final Peer Evaluation :**
+**Final Peer Evaluation :**
+
 1. What progress has been made?
 2. Were the desired project objectives achieved?
 3. Do the project results justify the project inputs?
