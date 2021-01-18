@@ -14,6 +14,9 @@ weight: 4
 ---
 **Peer Evaluation**: At every presentation, each student will provide a peer evaluation of the studnet presenter by filling a [form](https://forms.office.com/Pages/ResponsePage.aspx?id=vboLF_CikEytSw6PDwxCWY8YjOkV-85Jgixhvnt1-dxUMUc0M1RPTFhVWEYzR0VKNlpXMFY5TE9LWiQlQCN0PWcu) in Ms Teams.
 
+[Evaluation Rubric](/files/Consulting_Clinic_rubric_xls.pdf)
+
+
 **Self Evaluation :**
 
 Go through these questions at the end of **week 8** to make sure you get better results at the end.
