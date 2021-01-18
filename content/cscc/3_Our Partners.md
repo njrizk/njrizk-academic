@@ -21,7 +21,7 @@ The **CSCC** works collaboratively with the [SURE™ Program](https://www.bauer.
 
 
 
- The **CSCC** works collaboratively with the [Cougar Initiative to Engage](www.uh.edu/coogsengage). The CITE mission is to provide opportunities for student learning, discovery, and engagement in a real-world setting.
+ The **CSCC** works collaboratively with the [Cougar Initiative to Engage](https://uh.edu/provost/university/qep/). The CITE mission is to provide opportunities for student learning, discovery, and engagement in a real-world setting.
 
 * As part of **CSCC**’s collaboration with the CITE Program, CSCC students will demonstarte two learning outcomes: problem solving, and teamwork. 
 

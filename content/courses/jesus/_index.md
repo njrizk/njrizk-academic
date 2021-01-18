@@ -18,9 +18,9 @@ menu:
     weight: 1
 ---
 
-<span style="color: #ff0000; font-family: Babas; font-size: 1em;">Collaboration with SURE Program at Bauer College</span><br>
+<span style="color: #ff0000; font-family: Babas; font-size: 1em;">[In Collaboration with the SURE Program at Bauer College of Business](https://www.bauer.uh.edu/sure/).</span><br>
 
-<span style="color: #ff0000; font-family: Babas; font-size: 1em;"> Funded by Cougar Intitative for Engage Grant </span><br>
+<span style="color: #ff0000; font-family: Babas; font-size: 1em;"> [Funded by Cougar Intitative for Engage](https://uh.edu/provost/university/qep/). </span><br>
 
 
 
