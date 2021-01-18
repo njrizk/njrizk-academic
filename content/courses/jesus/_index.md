@@ -18,9 +18,16 @@ menu:
     weight: 1
 ---
 
+<span style="color: #ff0000; font-family: Babas; font-size: 2em;">Collaboration with SURE Program at Bauer College</span><br>
+
+<span style="color: #ff0000; font-family: Babas; font-size: 2em;"> Funded by Cougar Intitative for Engage Grant </span><br>
+
+
 
 *  **Course Description** 
  The chief objective of this course is to make sure each student appreciates the value of experiential education where the students learn by applying theory and concepts to "real-world" situations.
+
+ 
 **Theoretical Learning Course Objectives**
 •	Equip the student with the tools necessary to succeed in a high-paced work environment and instilling a broad sense of the societal impact of IT
 •	Address human, community, and environmental needs. Students are expected to work with people of many different backgrounds to identify and achieve goals. They need educational experiences that can help them broaden their skills.
