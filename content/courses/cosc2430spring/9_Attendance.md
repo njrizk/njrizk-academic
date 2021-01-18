@@ -25,7 +25,7 @@ Hidden....................
 
 *  [<font size="6"> Week_3_1  </font>](https://forms.gle/3HZrh3tszoQ9QB5M6)
 
-*  [<font size="6"> Week_3_2  </font>]https://forms.gle/QSt342GehpzyqmsX8)
+*  [<font size="6"> Week_3_2  </font>](https://forms.gle/QSt342GehpzyqmsX8)
 
 
 *  [<font size="6"> Week_4_1  </font>](https://forms.gle/SztGJ2yEuRqtCiVH7)
