@@ -19,7 +19,7 @@ The **CSCC** works collaboratively with the [SURE™ Program](https://www.bauer.
 
 * As part of **CSCC**’s collaboration with the SURE™ Program, CSCC student gives presentations on Computer topics at SURE™ Program events. The CSCC also receives referrals of potential clients through the SURE™ Program, many of whom attended past student presentations.
 
-
+The **CSCC** works collaboratively with the [Executive Services Corps – Houston](https://execservicecorphouston.org/)(ESCH).ESCH mission is to help nonprofits build capacity – increase effectiveness as well as efficiency –  and through them, improve the quality of life in greater Houston area.
 
  The **CSCC** works collaboratively with the [Cougar Initiative to Engage](https://uh.edu/provost/university/qep/). The CITE mission is to provide opportunities for student learning, discovery, and engagement in a real-world setting.
 
