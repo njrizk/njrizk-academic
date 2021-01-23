@@ -19,7 +19,7 @@ The **CSCC** works collaboratively with the [SURE™ Program](https://www.bauer.
 
 * As part of **CSCC**’s collaboration with the SURE™ Program, CSCC student gives presentations on Computer topics at SURE™ Program events. The CSCC also receives referrals of potential clients through the SURE™ Program, many of whom attended past student presentations.
 
-The **CSCC** works collaboratively with the [Executive Services Corps – Houston](https://execservicecorphouston.org/)(ESCH).ESCH mission is to help nonprofits build capacity – increase effectiveness as well as efficiency –  and through them, improve the quality of life in greater Houston area.
+The **CSCC** works collaboratively with the [Executive Services Corps – Houston](https://execservicecorphouston.org/)(ESCH). ESCH mission is to help nonprofits build capacity – increase effectiveness as well as efficiency –  and through them, improve the quality of life in greater Houston area.
 The program from the UofH's perspective consists of offerings from the "Computer Sciences" class whereby students form teams to execute a project to effect a solution that may take on various facets of IT solutions for the Houston area's NonProfit community.
 The Clients utilizing these offerings are NonProfits (NP) who have problems that they deem can be solved by the student teams.These NonProfits are solicited by the NonProfit Executive Services Core – Houston (ESCH)and vetted for suitability. 
 
